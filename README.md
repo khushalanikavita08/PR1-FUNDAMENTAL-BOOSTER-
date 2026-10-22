@@ -59,7 +59,8 @@ Every sheet has three parts:
 ├── 💰 SALES DATA         →  Sales, discounts, lookups, dynamic ranges
 └── 👔 EMPLOYEES DATA     →  Salaries, joining dates, text cleaning
 ```
-<img width="2800" height="3246" alt="project_structure" src="https://github.com/user-attachments/assets/9611e918-f223-49f2-b7f3-155c26ae4003" />
+
+ ![Uploading project_structure_live (1).gif…]()
 
 
 
