@@ -58,7 +58,8 @@ Every sheet has three parts:
 ├── 🎓 STUDENT GRADE      →  Marks, grades, percentages, age, top performers
 ├── 💰 SALES DATA         →  Sales, discounts, lookups, dynamic ranges
 └── 👔 EMPLOYEES DATA     →  Salaries, joining dates, text cleaning
-![Uploading project_structure_live (1).gif…]()
+![Uploading project_structure.png…]()
+
 
 ```
  
